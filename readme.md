@@ -10,8 +10,8 @@
 
 5. NLP Text Cleaning: This notebook has basic steps of text cleaning(removing @, #, urls, etc) , stemming and tokenization.
 
-6. Seaborn: This notebook has various seaborn plots (Countplot, Swarmplot, 
+6. Seaborn: This notebook has various seaborn plots (Countplot, Swarmplot, scatterplot, relplot, catplot, violinplot, catplot, HEX plot, KDE plot and Heatmap)
 
-7. Sentiment Analysis
+7. Sentiment Analysis:  This notebook has basic steps of text cleaning(removing @, #, urls, etc) , stemming, tokenization, Vectorizer, Oversampling and model building.
 
-8. Titanic Survival Prediction
+8. Titanic Survival Prediction: This notebook includes Data Cleaning(Taking care of missing values, Scaling, encoding), Data visualizations(univariate and bivariate analysis) and model building.
